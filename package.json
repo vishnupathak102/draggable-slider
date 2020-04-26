@@ -1,0 +1,10 @@
+{
+  "name": "draggable-slider",
+  "version": "1.0.0",
+  "description": "Reusable Draggable Slider Component",
+  "main": "index.js",
+  "repository": "https://github.com/vishnupathak102/draggable-slider.git",
+  "author": "Vishnu Pathak <vishnupathak1997@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
