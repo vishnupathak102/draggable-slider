@@ -34,7 +34,7 @@ describe('Slider', () => {
 
     it(`should have right onChange effect `,()=>{
         const input = wrapper.find('input[type="range"]');
-        input.simulate('change', { target: { value: max } });
+        input.simulate('change',{target: {value:max}});
         expect(wrapper.state('value')).to.equal(max);
     })
 

@@ -42,7 +42,7 @@ Slider.defaultProps={
     max:100,
     step:1,
     value:0,
-    color: "red"
+    color: "transparnt"
 }
 
 Slider.propTypes={
