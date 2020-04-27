@@ -4,13 +4,17 @@
 
 .container {
     display: flex;
-    height: 100vh;
+    height: 75vh;
     align-items: center;
     justify-content: center;
     width: 100%;
     &-text--white {
         @extend %text-white;
         .slider-bar-value {
+            @extend %text-white;
+        }
+        span,
+        a {
             @extend %text-white;
         }
     }

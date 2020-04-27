@@ -17,7 +17,7 @@ export default class Slider extends Component {
         const {min, max} = this.props;
         return Number(Number((value-min)*(100/(max-min))).toFixed(2));
     }
-    
+
     render() {
         const {value} = this.state
         const {min, max, step, color} = this.props;
