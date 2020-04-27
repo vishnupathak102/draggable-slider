@@ -13,12 +13,14 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage --colors",
     "storybook": "start-storybook",
+    "build-storybook": "build-storybook -c .storybook -o .out",
     "start": "webpack-dev-server --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
   },
   "dependencies": {
     "@storybook/react": "^5.3.18",
     "chai-enzyme": "^1.0.0-beta.1",
+    "classnames": "^2.2.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },

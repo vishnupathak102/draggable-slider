@@ -1,0 +1,10 @@
+.homepage {
+    text-align: center;
+    width: 100%;
+    &-header {
+        &-heading {
+            font-size: 25px;
+            font-weight: 400;
+        }
+    }
+}

@@ -29,7 +29,7 @@ module.exports = merge(common, {
         new webpack.HotModuleReplacementPlugin(),
         new HtmlWebpackPlugin({
                   title: 'Draggable Slider',
-                  template:'./dist/index.html'
+                  template:'./src/index.html'
         })
     ]
 });
