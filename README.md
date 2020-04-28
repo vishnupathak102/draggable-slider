@@ -1,9 +1,9 @@
-#Draggable Slider
+# Draggable Slider
 
 > Reusable React Component.
 
-- Demo : https://vishnupathak102.github.io/draggable-slider/
-- Storybook: https://gracious-lalande-a5db8f.netlify.app
+- [Demo](https://vishnupathak102.github.io/draggable-slider/)
+- [Storybook](https://gracious-lalande-a5db8f.netlify.app)
 
 ---
 
@@ -31,7 +31,7 @@ This component is similar to HTML 5 input range but rich in UI desing and reusab
 - [Chai](https://www.chaijs.com/)
 - [Storybook](https://storybook.js.org/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#draggable-slider)
 
 ---
 
@@ -41,15 +41,12 @@ This component is similar to HTML 5 input range but rich in UI desing and reusab
 
 Required at least Node virsion v8.0.0, you can access draggable slider component from 'src/components/Slider'. to see it's usage, you can run this repository with following commands.
 
-```html
-    <code>yarn start</code> 
-         <h4>OR</h4>
-    <code>npm run start</code>
-```
+    yarn start or npm run start
+
 
 #### API Reference
 
-###### Props
+##### Props
 
 - min (number) : 
     Minimum limit value user can select.
@@ -70,7 +67,7 @@ Required at least Node virsion v8.0.0, you can access draggable slider component
         - percentageValue : Percentage that user covers by moving slider.
 
         
-[Back To The Top](#read-me-template)
+[Back To The Top](#draggable-slider)
 
 ---
 
@@ -80,7 +77,7 @@ Required at least Node virsion v8.0.0, you can access draggable slider component
 - https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/
 
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#draggable-slider)
 ---
 
 ## License
@@ -107,7 +104,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#draggable-slider)
 
 ---
 
