@@ -49,22 +49,27 @@ Required at least Node virsion v8.0.0, you can access draggable slider component
 ##### Props
 
 - min (number) : 
+
     Minimum limit value user can select.
 
 - max (number) : 
+
     Maximum limit value usre can select.
 
 - step (number) : 
+
     Interval value between min and max values.
 
 - color (string) :
+
     Color to occupied region of slider. 
     
 - callBack (value:number, percentageValue:number) => void : 
+
     It's a callback function gets called when user changes slider values.
-    This function takes two attributes 
-        - value : Contains actual value that user selects.
-        - percentageValue : Percentage that user covers by moving slider.
+    This function takes two attributes.
+    - value : Contains actual value that user selects.
+    - percentageValue : Percentage that user covers by moving slider.
 
         
 [Back To The Top](#draggable-slider)
