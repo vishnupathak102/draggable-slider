@@ -4,7 +4,7 @@
 
 - [Demo](https://vishnupathak102.github.io/draggable-slider/)
 - [Storybook](https://gracious-lalande-a5db8f.netlify.app)
-
+- [Example](https://github.com/vishnupathak102/draggable-slider/blob/master/src/containers/HomePage.js)
 ---
 
 ### Table of Contents
@@ -54,7 +54,7 @@ Required at least Node virsion v8.0.0, you can access draggable slider component
 
 - max (number) : 
 
-    Maximum limit value usre can select.
+    Maximum limit value user can select.
 
 - step (number) : 
 
